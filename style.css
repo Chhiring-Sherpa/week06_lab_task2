@@ -1,0 +1,10 @@
+*{
+    text-align: center;
+}
+#key{
+    text-transform: capitalize;
+    font-size: 2rem;
+}
+#code{
+    font-size: 2rem;
+}
